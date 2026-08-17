@@ -1,2 +1,3 @@
 # java-backend
-This contains my work in javascript
+This contains my work in javascript ,growth of myself and now on to main part I have covered basic of javascript like learning how to print,input in web and usage of basic datatypes, usage of logic operators,usage of conditional operators and also ?,usage of loops , creation of functions through 3 means, learnt about object this is for now will expand rapidly and I am using javascript.info as my main resource of learning.
+If you have any important piece of advice that can help me please give never hesitate and Thank You 
